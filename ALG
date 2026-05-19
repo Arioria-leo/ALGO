@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,26TV
+http://181.209.96.155:10000/play/a11p/index.m3u8
+#EXTINF:-1,A&E HD
+http://181.209.96.155:10000/play/a14a/index.m3u8
+#EXTINF:-1,A24
+http://181.209.96.155:10000/play/a11m/index.m3u8
+#EXTINF:-1,AM Sports
+http://181.209.96.155:10000/play/a11t/index.m3u8
+#EXTINF:-1,AMC
+http://181.209.96.155:10000/play/a11x/index.m3u8
+#EXTINF:-1,ANDES BOLIVIA
+http://181.209.96.155:10000/play/a16y/index.m3u8
+#EXTINF:-1,ARGENTINISIMA
+http://181.209.96.155:10000/play/a16h/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.209.96.155:10000/play/a147/index.m3u8
+#EXTINF:-1,Adult swim HD
+http://181.209.96.155:10000/play/a169/index.m3u8
+#EXTINF:-1,America TV HD
+http://181.209.96.155:10000/play/america/index.m3u8
